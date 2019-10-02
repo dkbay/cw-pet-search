@@ -10,6 +10,7 @@
         event-name="results"
         :list="petData"
         :keys="keys"
+        :threshold="0.3"
       />
     </div>
     <div class="results">
