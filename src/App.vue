@@ -345,7 +345,8 @@ html, body {margin:0;}
 .logo {
   display: block;
   margin: 0 auto;
-  max-width: 500px;
+  width: 500px;
+  max-width: 80%;
   padding-top: 50px;
 }
 .container {
