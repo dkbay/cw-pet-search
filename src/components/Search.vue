@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <img class="logo" alt="Cube World Logo" src="https://cubeworld.com/media/cube-world-logo.png">
-    <div class="container" searchcomponent>
+  <div class="container" searchcomponent>
     <div class="search">
       <h1>Cube World pet food helper</h1>
       <p>Find out what pet food you need or what pet you can tame with your food</p>
@@ -15,23 +13,20 @@
     <div class="results">
       <div v-for="result in results" :key="result.food" class="result">
         <div class="result-image">
-          <img :src="'/img/' + result.food + '.png'" alt="">
+          <img src="https://gamepedia.cursecdn.com/cube_gamepedia/thumb/4/4f/Apple_Ring.png/45px-Apple_Ring.png?version=2c115c190785855ffb9b81161d6644f4" alt="">
         </div>
         <div class="result-info">
-          <div class="result-text">
-            <h3>{{ result.food }}</h3>
-            <p>{{ result.name }}</p>
-          </div>
+          <h3>{{ item.food }}</h3>
+          <p>{{ item.name }}</p>
         </div>
       </div>
     </div>
-  </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'Search',
   data () {
     return {
       results: [],
@@ -324,31 +319,13 @@ export default {
         }
     ]
     }
-  },
-  created () {
-    this.$on('results', results => {
-      this.results = results
-    })
   }
 }
 </script>
 
-<style>
-html, body {margin:0;}
-#app {
-  font-family: 'Raleway', sans-serif;
-  background-color: #3defb2;
-  min-height: 100vh;
-  padding-bottom:100px;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto;
-  max-width: 500px;
-  padding-top: 50px;
-}
-.container {
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+  .container {
     display: grid;
     justify-content: center;
   }
@@ -370,17 +347,19 @@ html, body {margin:0;}
 
   .results {
     margin-top: 25px;
-    display:grid;
-    grid-row-gap: 25px;
-
   }
 
   .result {
     display: grid;
+    grid-row-gap: 50px;
     grid-template-columns: 25% 75%;
     background-color: #fefefe;
     padding: 25px;
     border-radius: 3px;
+  }
+
+  .result-info {
+    padding-left: 25px;
   }
 
   .result-image {
@@ -390,10 +369,6 @@ html, body {margin:0;}
   }
 
   .result-image>img {
-    max-width:50px;
-  }
-
-  .result-text {
-    padding-left:10px;
+    width:50%;
   }
 </style>

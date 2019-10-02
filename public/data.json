@@ -1,0 +1,286 @@
+[
+    {
+        "name":"Crocodile",
+        "food":"Apple Ring"
+    },
+
+    {
+        "name":"Monkey",
+        "food":"Banana Split"
+    },
+
+    {
+        "name":"Bumblebee",
+        "food":"Biscuit Roll"
+    },
+
+    {
+        "name":"Porcupine",
+        "food":"Blackberry Marmalade"
+    },
+
+    {
+        "name":"Mosquito",
+        "food":"Bloodorange Juice"
+    },
+
+    {
+        "name":"Beaver",
+        "food":"Buckhorn"
+    },
+
+    {
+        "name":"Collie",
+        "food":"Bubble Gum"
+    },
+
+    {
+        "name":"Blue Slime",
+        "food":"Blue Jelly"
+    },
+
+    {
+        "name":"Bark Beetle",
+        "food":"Bread"
+    },
+
+    {
+        "name":"Snail",
+        "food":"Cabbage rolls"
+    },
+
+    {
+        "name":"Horse",
+        "food":"Candied Apple"
+    },
+
+    {
+        "name":"Cat (Only Black)",
+        "food":"Candy"
+    },
+
+    {
+        "name":"Desert runner",
+        "food":"Caramel Chocolate Bar"
+    },
+
+    {
+        "name":"Bunny",
+        "food":"Carrot"
+    },
+
+    {
+        "name":"Chicken",
+        "food":"Cereal Bar"
+    },
+
+    {
+        "name":"Turtle",
+        "food":"Cinnamon Roll"
+    },
+
+    {
+        "name":"Raccoon",
+        "food":"Chocolate Cake"
+    },
+
+    {
+        "name":"Peacock",
+        "food":"Chocolate Cookie"
+    },
+
+    {
+        "name":"Brown Alpaca",
+        "food":"Chocolate Cupcake"
+    },
+
+    {
+        "name":"Mole",
+        "food":"Chocolate Donut"
+    },
+
+    {
+        "name":"Baby Mammoth",
+        "food":"Chocolate Ice Cream"
+    },
+
+    {
+        "name":"Sheep",
+        "food":"Cotton Candy"
+    },
+
+    {
+        "name":"Scottish Terrier",
+        "food":"Croissant"
+    },
+
+    {
+        "name":"Fire Beetle",
+        "food":"Curry"
+    },
+
+    {
+        "name":"Camel",
+        "food":"Date Cookie"
+    },
+
+    {
+        "name":"Koala",
+        "food":"Eucalyptus Candy"
+    },
+
+    {
+        "name":"Fly",
+        "food":"Fruit Basket"
+    },
+
+    {
+        "name":"Parrot",
+        "food":"Ginger Tartlet"
+    },
+
+    {
+        "name":"Green Slime",
+        "food":"Green Jelly"
+    },
+
+    {
+        "name":"Lemon Beetle",
+        "food":"Lemon Tart"
+    },
+
+    {
+        "name":"Crow",
+        "food":"Licorice Candy"
+    },
+
+    {
+        "name":"Owl",
+        "food":"Lollipop"
+    },
+
+    {
+        "name":"Snout Beetle",
+        "food":"Lolly"
+    },
+
+    {
+        "name":"Bat",
+        "food":"Mango Juice"
+    },
+
+    {
+        "name":"Midge",
+        "food":"Melon Ice Cream"
+    },
+
+    {
+        "name":"Radishling Sprout",
+        "food":"Mineral Water"
+    },
+
+    {
+        "name":"Leaf Runner",
+        "food":"Mint Chocolate Bar"
+    },
+
+    {
+        "name":"Caterpillar",
+        "food":"Mixed Salad"
+    },
+
+    {
+        "name":"Biter",
+        "food":"Pancakes"
+    },
+
+    {
+        "name":"Baby Elephant",
+        "food":"Peanut"
+    },
+
+    {
+        "name":"Pink Slime",
+        "food":"Pink Jelly"
+    },
+
+    {
+        "name":"Hornet",
+        "food":"Popcorn"
+    },
+
+    {
+        "name":"Pig",
+        "food":"Pumpkin Mash"
+    },
+
+    {
+        "name":"Earth Caterpillar",
+        "food":"Radicchio Salad"
+    },
+
+    {
+        "name":"Flamingo",
+        "food":"Raspberry Juice"
+    },
+
+    {
+        "name":"Plain Runner",
+        "food":"Rice Milk Chocolate Bar"
+    },
+
+    {
+        "name":"Seagull",
+        "food":"Salted Caramel"
+    },
+
+    {
+        "name":"Penguin",
+        "food":"Soft Ice"
+    },
+
+    {
+        "name":"Cornling Sprout",
+        "food":"Spring Water"
+    },
+
+    {
+        "name":"Squirrel",
+        "food":"Strawberry Cake"
+    },
+
+    {
+        "name":"Crab",
+        "food":"Strawberry Cocktail"
+    },
+
+    {
+        "name":"Duckbill",
+        "food":"Sugar Candy"
+    },
+
+    {
+        "name":"Alpaca (Light)",
+        "food":"Vanilla Cupcake"
+    },
+
+    {
+        "name":"Terrier",
+        "food":"Waffle"
+    },
+
+    {
+        "name":"Spitter",
+        "food":"Water Ice"
+    },
+
+    {
+        "name":"Snow Runner",
+        "food":"White Chocolate Bar"
+    },
+
+    {
+        "name":"Yellow Slime",
+        "food":"Yellow Jelly"
+    }
+]
