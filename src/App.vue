@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img class="logo" alt="Cube World Logo" src="https://cubeworld.com/media/cube-world-logo.png">
-    <div class="container" searchcomponent>
+    <div class="container">
     <div class="search">
       <h1>Cube World pet food helper</h1>
       <p>Find out what pet food you need or what pet you can tame with your food</p>
